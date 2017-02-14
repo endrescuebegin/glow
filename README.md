@@ -4,15 +4,15 @@ Glow is a simple, extensible, modular web application framework written in Ruby.
 
 ## Installation
 
-  $ gem install glow
+    $ gem install glow
 
 ## Using Glow
 
-  More to follow.
+More to follow.
 
 ## Contributing
 
-  Contributions welcome via Github.
+Contributions welcome via Github.
 
 ## License
 
